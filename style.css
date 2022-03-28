@@ -1,0 +1,39 @@
+hr {
+  color: #dd0021;
+}
+
+body {
+  background-color: #e6e6ff;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(50, 62, 92, 0.445);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgba(65, 48, 107, 0.363);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgba(92, 79, 79, 0.109);
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6c6b8d(170, 25, 25);
+  color: rgb(241, 199, 199);
+  text-align: center;
+}
